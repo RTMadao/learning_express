@@ -1,0 +1,27 @@
+{
+  "name": "learning_express",
+  "version": "1.0.0",
+  "description": "learning how express works",
+  "main": "main.js",
+  "scripts": {
+    "test": "tst",
+    "start": "node src/main.js",
+    "dev": "nodemon src/main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RTMadao/learning_express.git"
+  },
+  "author": "RTMadao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RTMadao/learning_express/issues"
+  },
+  "homepage": "https://github.com/RTMadao/learning_express#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
